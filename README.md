@@ -5,10 +5,13 @@ This is a quick tutorial on how to add a crypto-currency ticker to your Macbook 
 <h2> Instructions </h2>
 
 Download BetterTouchTools from here: https://www.boastr.net/downloads/
-- The trial version (45 days) will be downloaded
-- BetterTouchTools can be purchased for as low as $5.00 once the trial expires
+
 In BetterTouchTools:
 - Click "+ Widget"
 - At "Select Touchbar Widget:", scroll through and click "Run Apple Script and Show Return Value"
 - Click "Advanced Configuration"
   - Give your widget a name (e.g. "BTC" if the ticker is for Bitcoin)
+  - Copy and paste the example script from btc_ticker.txt
+  - Click save
+
+After that, you're done! Feel free to add new coins by editing the url in the script. Hope this helped!
