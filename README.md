@@ -7,7 +7,6 @@ This is a quick tutorial on how to add a crypto-currency ticker to your Macbook 
 Download BetterTouchTools from here: https://www.boastr.net/downloads/
 - The trial version (45 days) will be downloaded
 - BetterTouchTools can be purchased for as low as $5.00 once the trial expires
-
 In BetterTouchTools:
 - Click "+ Widget"
 - At "Select Touchbar Widget:", scroll through and click "Run Apple Script and Show Return Value"
