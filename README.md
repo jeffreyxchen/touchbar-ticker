@@ -1,6 +1,6 @@
 <h1> Cryptocurrency Touchbar Ticker </h1>
 
-This is a quick tutorial on how to add a crypto-currency ticker to your Macbook Pro's Touchbar. Ticker data is received from the CoinMarketCap API.
+This is a quick tutorial on how to add a crypto-currency ticker to your Macbook Pro Touchbar. Ticker data is received from the CoinMarketCap API.
 
 <h2> Instructions </h2>
 
