@@ -14,4 +14,4 @@ In BetterTouchTools:
   - Copy and paste the example script from btc_ticker.txt
   - Click save
 
-After that, you're done! Feel free to add new coins by editing the url in the script. Hope this helped!
+After that, you're done! Different coins can be added by editing the url in the script (e.g. replace ...com/v1/ticker/bitcoin/ with ...com/v1/ticker/ethereum/ to go from BTC to ETH).
